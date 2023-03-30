@@ -10,7 +10,7 @@ body {
     margin: 0;
     display: flex;
     justify-content: center;
-    background-image: url("./img/background.png");
+    background-image: url("./background.png");
 }
 
 .container {
@@ -51,15 +51,15 @@ body {
 }
 
 #image1 {
-    background-image: url("./img/img1.png");
+    background-image: url("./img1.png");
 }
 
 #image2 {
-    background-image: url("./img/img2.png");
+    background-image: url("./img2.png");
 }
 
 #image3 {
-    background-image: url("./img/img3.png");
+    background-image: url("./img3.png");
 }
 
 .photo-description {
